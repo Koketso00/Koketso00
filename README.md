@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭  Data Engineer with a finance background, passionate about merging finance expertise with data engineering to drive insightful analytics and strategies.     
+- 🔭  Data Engineer with a finance background, passionate about merging finance expertise with data engineering to drive insightful analytics and strategies     
 - 👯 I’m looking to collaborate on projects related to data analytics in the finance industry. Let's work together to uncover valuable insights from financial data.
 - 🤔 Let's talk data! Whether it's financial data analysis, data engineering techniques, or the intersection of finance and technology, I'm always up for a discussion.
 - 💬  I’m currently exploring advanced data analytics techniques, machine learning algorithms, and data visualization tools to enhance financial decision-making.
